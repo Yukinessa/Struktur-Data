@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1538347334 source:/home/yukinessa/codeblock/Algoritma Program/PSDA2 I/main.c
+	"header.h"
+	"boolean.h"
+
+1538343915 /home/yukinessa/codeblock/Algoritma Program/PSDA2 I/header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1538343905 /home/yukinessa/codeblock/Algoritma Program/PSDA2 I/boolean.h
+	"header.h"
+
+1538347371 source:/home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 2/PSDA2 I/fungis.c
+	"header.h"
+
+1538343915 /home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 2/PSDA2 I/header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1538343905 /home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 2/PSDA2 I/boolean.h
+	"header.h"
+
+1538347334 source:/home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 2/PSDA2 I/main.c
+	"header.h"
+	"boolean.h"
+

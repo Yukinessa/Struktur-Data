@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537679002 source:/home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 1/PSDA 01 II/main.c
+	"header.h"
+
+1537678865 /home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 1/PSDA 01 II/header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1537677902 /home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 1/PSDA 01 II/boolean.h
+	<stdbool.h>
+
+1537678450 source:/home/yukinessa/codeblock/Struktur Data/PSDA/PSDA 1/PSDA 01 II/fungsi.c
+	"header.h"
+
